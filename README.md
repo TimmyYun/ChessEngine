@@ -1,2 +1,0 @@
-# MyFirstChessEngine
-Chess Engine
